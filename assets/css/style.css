@@ -1,0 +1,17 @@
+header {
+	background-color: #666666;
+}
+body {
+	background-color: #acacac;
+}
+
+#botones .btn {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+#botones .btn i {
+	/* color: white; */
+	font-size: 7rem;
+}
